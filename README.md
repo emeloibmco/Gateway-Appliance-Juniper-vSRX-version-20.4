@@ -40,7 +40,7 @@ Para desplegar un dispositivo de pasarela ```Gateway Appliance``` realice lo sig
    Los demás campos nos los modifique, deje los valores que salen por defecto. Para finalizar, de click en el botón ```Crear/Create```.
    
    <p align="center">
-   <img src=https://github.com/emeloibmco/PowerVS-Conectividad/blob/main/Imagenes/Crear%20Gateway%20Appliance.gif>
+   <img src=https://Imagenes/Crear Gateway Appliance.gif>
    </p>
   
 <br />
