@@ -71,7 +71,7 @@ Luego de desplegar el ```Gateway Appliance``` siga los pasos que se indican a co
 4. De click en el botón ```Log In``` para iniciar sesión en Juniper.
 
   <p align="center">
-   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Juniper.gif>
+   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Juniper.png>
    </p>
   
   
