@@ -40,7 +40,7 @@ Para desplegar un dispositivo de pasarela ```Gateway Appliance``` realice lo sig
    Los demás campos nos los modifique, deje los valores que salen por defecto. Para finalizar, de click en el botón ```Crear/Create```.
    
    <p align="center">
-   <img src=https://https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/5743e32c5535533a8b69da0db87a0f410c485e0c/Imagenes/Crear%20Gateway%20Appliance.gif>
+   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Crear%20Gateway%20Appliance.gif>
    </p>
   
 <br />
@@ -71,7 +71,8 @@ Luego de desplegar el ```Gateway Appliance``` siga los pasos que se indican a co
 4. De click en el botón ```Log In``` para iniciar sesión en Juniper.
 
   <p align="center">
-  <img src=https://github.com/emeloibmco/PowerVS-Conectividad/blob/main/Imagenes/Juniper.PNG>
-  </p>
+   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Juniper.gif>
+   </p>
+  
   
 <br />
