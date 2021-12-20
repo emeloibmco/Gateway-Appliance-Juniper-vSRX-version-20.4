@@ -57,7 +57,7 @@ Luego de desplegar el ```Gateway Appliance``` siga los pasos que se indican a co
    * ```Nombres de usuario```: root y admin.
    * ```Contraseñas```.
 
-2. En el navegador (se recomienda usar Firefox) coloque la ip pública y el puerto 8443, de la siguiente manera:
+2. En el navegador (se recomienda usar Firefox) coloque la ip pública (vSRX) y el puerto 8443, de la siguiente manera:
 
    ```
    https://ip_publica:8443
