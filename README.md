@@ -4,7 +4,7 @@ IBM Cloud Juniper vSRX le permite enrutar selectivamente el tráfico de red púb
 
 ## Tabla de contenido 📑
 1. [Crear servicio Gateway Appliance](#crear-servicio-gateway-appliance)
-2. [Ingresar a Juniper]
+2. [Ingresar a Juniper](#ingresar-a-juniper)
 3. [Configuración VPN site to site Juniper]
 
 ## Crear servicio Gateway Appliance
