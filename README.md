@@ -102,6 +102,10 @@ Luego de crear la VPN for VPC siguiendo los pasos explicados en el repositorio d
 
 Luego de esto repita el proceso tanto para la VPN como para la VLAN
 
+  <p align="center">
+   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Segmentos.gif>
+   </p>
+
 ### Creación de una dirección de Zona 
 Siga la ruta ```Security Policies and Objects > Zones/Screens > +```para agregar una nueva zona. Esto abrirá un menú de configuración, aquí ingrese la siguiente información:
 * ```Zone Name```: Ingrese un nombre distintivo para la zona
