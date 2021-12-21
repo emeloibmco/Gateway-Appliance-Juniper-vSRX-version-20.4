@@ -127,6 +127,9 @@ Siga la ruta ```Network > Connectivity > Interfaces``` y tenga en cuenta los sig
 * De click en ```Ok```
 * De click en ```Commit```> ```Commit configuration```
 
+  <p align="center">
+   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Interface.gif>
+   </p>
 
 ### Creación de VPN site to site
 para esto siga la ruta ```VPN > create VPN > site to site```. Esto abrirá una pestaña de configuración, aquí ingrese la siguiente información.
