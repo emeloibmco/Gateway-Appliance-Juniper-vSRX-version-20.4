@@ -156,7 +156,7 @@ para esto siga la ruta ```VPN > create VPN > site to site```. Esto abrirá una p
 Al terminar la configuración y creación de la conexión VPN site to site ingrese a la VPN creada anteriormente siguiendo la ruta ```Menú de navegación > VPC Infrastructure > VPNs > Seleccione el nombre de su VPN > VPN Connections```y habilite la conexión.
 
   <p align="center">
-   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/STS.gif>
+   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Habilitacion.gif>
    </p>
 
 <br />
