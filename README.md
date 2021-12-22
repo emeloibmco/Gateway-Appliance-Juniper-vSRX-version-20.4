@@ -169,5 +169,8 @@ Luego de esto se deben habilitar los puertos 500 y 4500 para tener una conexión
  * Esto abrirá una nueva pestaña de configuración, aquí despliegue el menú de ```Source Port```e ingrese los puertos que desea configurar, luego de click en ```Ok```.
  * De click en ```Commit```> ```Commit configuration```
 
+  <p align="center">
+   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Puertos.gif>
+   </p>
 
 <br />
