@@ -147,4 +147,8 @@ para esto siga la ruta ```VPN > create VPN > site to site```. Esto abrirá una p
 * De click en ```Save```
 * De click en ```Commit```> ```Commit configuration```
 
+  <p align="center">
+   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/STS.gif>
+   </p>
+
 <br />
