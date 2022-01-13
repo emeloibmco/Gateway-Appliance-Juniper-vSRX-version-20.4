@@ -174,5 +174,11 @@ Luego de esto se deben habilitar los puertos 500 y 4500 para tener una conexión
   <p align="center">
    <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Puertos.gif>
    </p>
+   
+ 
+ Una vez terminada la configuracion debera obtener el siguiente resultado
+  <p align="center">
+   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Resultado.gif>
+   </p>
 
 <br />
