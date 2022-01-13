@@ -164,7 +164,7 @@ Al terminar la configuración y creación de la conexión VPN site to site ingre
    
 Luego de esto se deben habilitar los puertos 500 y 4500 para tener una conexión satisfactoria, para esto tenga en cuenta los siguientes pasos:
  * Siga la ruta ```Network > Firewall Filters > IPV4``` 
- * En la sección ``Add New IPV4 Filter```ingrese la siguiente información:
+ * En la sección ```Add New IPV4 Filter```ingrese la siguiente información:
  * ```Filter name```: PROTECT-IN
  * ```Term name```: IPSEC
  * De click en el botón ```Add```.
@@ -178,7 +178,7 @@ Luego de esto se deben habilitar los puertos 500 y 4500 para tener una conexión
  
  Una vez terminada la configuracion debera obtener el siguiente resultado
   <p align="center">
-   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Resultado.gif>
+   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Resultado.png>
    </p>
 
 <br />
