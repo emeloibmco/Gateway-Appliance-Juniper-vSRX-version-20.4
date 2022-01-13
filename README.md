@@ -2,7 +2,7 @@
 
 IBM Cloud Juniper vSRX le permite enrutar selectivamente el tráfico de red pública y privada, a través de un firewall de nivel empresarial que funciona con características de software de JunOS, como stack de enrutamiento completo, tráfico compartido, enrutamiento basado en políticas y VPN. En este repositorio se encuentran los pasos necesarios para crear y configurar una conexion entre una VPN for VPC y un Power Virtual Server.
 
-En este repositorio se presentan los pasos a seguir para establecer una conexion entre una VPN en VPC a un servicio de Juniper en una cuenta de IBM Cloud distinta.
+En este repositorio se presentan los pasos a seguir para establecer una conexion entre una VPN en VPC y un servicio de Juniper en una cuenta de IBM Cloud distinta.
 
 ## Tabla de contenido 📑
 1. [Crear servicio Gateway Appliance](#crear-servicio-gateway-appliance)
