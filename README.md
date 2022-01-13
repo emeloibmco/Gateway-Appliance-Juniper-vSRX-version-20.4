@@ -10,6 +10,10 @@ En este repositorio se presentan los pasos a seguir para establecer una conexion
 3. [Configuración VPN site to site Juniper](#configuración-vpn-site-to-site-juniper)
 4. [Habilitación y Políticas de Seguridad](#habilitación-y-pol%C3%ADticas-de-seguridad)
 
+## Pre-Requisitos :pencil:
+* Contar con una cuenta en <a href="https://cloud.ibm.com/"> IBM Cloud </a>.
+* Contar con una *VPC* en *VPN*.
+
 ## Crear servicio Gateway Appliance
 Para desplegar un dispositivo de pasarela ```Gateway Appliance``` realice lo siguiente:
 
@@ -94,7 +98,7 @@ Cuando se le pida la contraseña ingrese la contraseña para el usuario *admin* 
  
  
 ## Configuración VPN site to site Juniper
-Antes de iniciar con la configuración es necesario crear una VPN en VPC, para esto tenga en cuenta el siguiente **repositorio**.
+Antes de iniciar con la configuración es necesario crear una VPN en VPC, para esto tenga en cuenta el siguiente <a href="https://github.com/emeloibmco/VPC-Conexion-VPN"> repositorio </a>
 
 ### Creación de nuevos segmentos de red
 Luego de crear la VPN for VPC siguiendo los pasos explicados en el repositorio debe crear los nuevos segmentos de red en el global adress book en Juniper para la VPN y la VLAN creados anteriormente. Para esto una vez iniciada sesión en Juniper siga la ruta ```Security Policies and Objects > Global Addresses  > Icono de lápiz > +``` para agregar una nueva dirección global. Esto abrirá un menú de configuración, aquí ingrese la siguiente información:
@@ -182,3 +186,10 @@ Luego de esto se deben habilitar los puertos 500 y 4500 para tener una conexión
    </p>
 
 <br />
+
+## Referencias :mag:
+* https://github.com/emeloibmco/VPC-Conexion-VPN/edit/main/README.md
+* https://github.com/emeloibmco/PowerVS-Conectividad
+
+## Autores :black_nib:
+Equipo IBM Cloud Tech Sales Colombia.
