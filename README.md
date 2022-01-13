@@ -188,8 +188,9 @@ Luego de esto se deben habilitar los puertos 500 y 4500 para tener una conexión
 <br />
 
 ## Referencias :mag:
-* https://github.com/emeloibmco/VPC-Conexion-VPN/edit/main/README.md
-* https://github.com/emeloibmco/PowerVS-Conectividad
+* <a href="https://github.com/emeloibmco/VPC-Conexion-VPN"> VPC Conexión VPN</a>. 
+* <a href="https://github.com/emeloibmco/PowerVS-Conectividad"> PowerVS-Conectividad</a>. 
+
 
 ## Autores :black_nib:
 Equipo IBM Cloud Tech Sales Colombia.
