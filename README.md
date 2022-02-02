@@ -221,6 +221,7 @@ set security policies from-zone SL-PRIVATE to-zone SL-PUBLIC policy internet-acc
 ## Referencias :mag:
 * <a href="https://github.com/emeloibmco/VPC-Conexion-VPN"> VPC Conexión VPN</a>. 
 * <a href="https://github.com/emeloibmco/PowerVS-Conectividad"> PowerVS-Conectividad</a>. 
+* <a href="https://www.juniper.net/documentation/us/en/software/junos/nat/topics/topic-map/nat-security-source-and-source-pool.html"> Network Address Translation User Guide</a>. 
 
 
 ## Autores :black_nib:
