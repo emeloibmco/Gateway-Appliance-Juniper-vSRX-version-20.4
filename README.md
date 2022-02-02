@@ -187,6 +187,33 @@ Luego de esto se deben habilitar los puertos 500 y 4500 para tener una conexión
 
 <br />
 
+
+## Habilitacion de trafico a internet publico
+
+Para permitir el acceso de la maquina a la red publica tal y como se muestra en el grafico es necesario realizar la siguiente configuración en la línea de comandos
+
+Primero se realiza la configuración de Nat Source desde la zona SL-PRIVATE to SL-PUBLIC y se definen las políticas de zona para el trafico de información con los siguientes comandos
+
+```
+set security nat source rule-set rs1 from zone SL-PRIVATE
+set security nat source rule-set rs1 to zone SL-PUBLIC 
+
+
+Luego de esto creamos la regla r1 la cual permite filtrar la información proveniente de la IP privada hacia la IP publica y la expone en una interfaz
+
+```
+set security nat source rule-set rs1 rule r1 match source-address 10.177.187.218/32
+set security nat source rule-set rs1 rule r1 match destination-address 0.0.0.0/0 
+set security nat source rule-set rs1 rule r1 then source-nat interface 
+
+Finalmente se definen las políticas de trafico entre zonas con los siguientes comandos 
+```
+set security policies from-zone SL-PRIVATE to-zone SL-PUBLIC policy internet-access match source-address any 
+set security policies from-zone SL-PRIVATE to-zone SL-PUBLIC policy internet-access match destination-address any 
+set security policies from-zone SL-PRIVATE to-zone SL-PUBLIC policy internet-access match application any 
+set security policies from-zone SL-PRIVATE to-zone SL-PUBLIC policy internet-access then permit
+
+
 ## Referencias :mag:
 * <a href="https://github.com/emeloibmco/VPC-Conexion-VPN"> VPC Conexión VPN</a>. 
 * <a href="https://github.com/emeloibmco/PowerVS-Conectividad"> PowerVS-Conectividad</a>. 
