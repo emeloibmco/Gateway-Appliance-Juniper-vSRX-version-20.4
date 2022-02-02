@@ -216,7 +216,7 @@ set security policies from-zone SL-PRIVATE to-zone SL-PUBLIC policy internet-acc
 set security policies from-zone SL-PRIVATE to-zone SL-PUBLIC policy internet-access match destination-address any 
 set security policies from-zone SL-PRIVATE to-zone SL-PUBLIC policy internet-access match application any 
 set security policies from-zone SL-PRIVATE to-zone SL-PUBLIC policy internet-access then permit
-
+```
 
 ## Referencias :mag:
 * <a href="https://github.com/emeloibmco/VPC-Conexion-VPN"> VPC Conexión VPN</a>. 
