@@ -9,6 +9,7 @@ En este repositorio se presentan los pasos a seguir para establecer una conexion
 2. [Ingresar a Juniper](#ingresar-a-juniper)
 3. [Configuración VPN site to site Juniper](#configuración-vpn-site-to-site-juniper)
 4. [Habilitación y Políticas de Seguridad](#habilitación-y-pol%C3%ADticas-de-seguridad)
+5. [Habilitación de trafico a internet publico](#habilitación-de-trafico-a-internet-publico)
 
 ## Pre-Requisitos :pencil:
 * Contar con una cuenta en <a href="https://cloud.ibm.com/"> IBM Cloud </a>.
