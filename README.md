@@ -188,9 +188,12 @@ Luego de esto se deben habilitar los puertos 500 y 4500 para tener una conexión
 <br />
 
 
-## Habilitacion de trafico a internet publico
+## Habilitación de trafico a internet publico
 
 Para permitir el acceso de la maquina a la red publica tal y como se muestra en el grafico es necesario realizar la siguiente configuración en la línea de comandos
+ <p align="center">
+   <img src=https://github.com/emeloibmco/Gateway-Appliance-Juniper-vSRX-version-20.4/blob/main/Imagenes/Habilitacion.png>
+   </p>
 
 Primero se realiza la configuración de Nat Source desde la zona SL-PRIVATE to SL-PUBLIC y se definen las políticas de zona para el trafico de información con los siguientes comandos
 
